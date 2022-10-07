@@ -1,0 +1,59 @@
+---------- Yazılımın Asli Özellikleri ----------
+
+a) Yazılım diğer mühendislik ürünlerinden daha karmaşıktır.(complexity)
+b) Çok sık değişir (changebility)
+c) Yazılım görülemez (invisible)
+d) Yazılım uyumludur, diğer oyunculara uyar (conformity).
+
+
+a) Complexity:
+  - Soyuttur, zihinseldir ve görünmezdir. Bu yüzden fiziksel kısıtları yoktur.
+  - Yazılım sisteminin durumlarının sayısı çok fazladır. Her yönüyle tasarlamak, test etmek imkansızdır.
+  - Çoğunlukla örneği yoktur, her yazılımı diğerlerinden ayıran pek çok temel özellik vardır.
+  - Yazılımların bileşenleri arasındaki ilişkiler de doğrusal değildir.
+    1) Birliktelik/Uyum (Cohesion)
+     - Bir modülün içindeki öğelerin birbirine ait olma derecesini ifade eder
+     - Yazılımlarda yüksek birliktelik (higly-cohesing) istenen bir durumdur.
+     - Bir sınıfın yöntemleri ve verileri ile o sınıfın hizmet ettiği birleştirici amaç 
+       veya kavram arasındaki ilişkinin gücünün bir ölçüsüdür .
+  2) Bağımlılık (Coupling)
+     - Koordinasyon karmaşıklığı, bir işin kendi başına ifade edilebilirliğinin ya da diğerleriyle
+       ne kadar ilgili olduğunun ölçüsüdür.
+     - İlgililik, bağımlılıktır ve bağımlılığı düşük olan bileşenlerin karmaşıklığı da düşüktür.
+
+  * İşleri yapan bileşenlerin yüksel birliktelikli (higly-cohesing) ve düşük bağımlılıklı (lowely-coupled)
+    olması için, işlerin uygun bir şekilde ve seviyede, alt parçalara, atomik işlere bölünmesi gerekir.
+    Öyle ki, ortaya çıkan atomik işlerin;
+    - daha küçük alt parçalara bölünmesine gerek olmasın,
+    - tek bir amacı olsun, her biri tek bir işi yapsın ama tam yapsın,
+    - birbirleriyle ilişkileri en az seviyede olsun.
+  * Yüksek birliktelikli ve düşük bağımlılıklı işler rahat anlaşılır, hızlı geliştirilir, kolay test
+    edilir ve aktarılır.
+  * Dolayısıyla, her türlü yazılım birimi, bileşen, modül, paket, sınıf/arayüz, metot, blok ve hatta
+    satır, yüksek birliktelikli ve düşük bağımlılıklı olmalıdır.
+  * İşlerin bağımlılıkları attıkça birliktelikleri azalır.
+
+
+b) Changebility:
+   - Değişmek, yazılımın doğasının bir parçasıdır.
+   - Bakım, büyük oranda yazılımı değiştirmektedir.
+   - Yazılımda değişimin teme sebebi, yeni ihtiyaçlardır.
+   - Yeni ihtiyaçlar, yazılımın bileşen ve koordinasyon karmaşıklığını arttır.
+
+---------- Nesne Kategorizasyonu ----------
+
+* Temel Nesne Tipleri
+  - Yazılım sisteminde farklı rollerde iş gören nesneler bulunur.
+  - Nesneler, bazı rollere göre sınıflandırılabilir.
+  - Rollere uygun sorumluluk ve veriyi bir araya getirmek, farklı rollere ait
+    olanları ayırmak birlikteliği arttıran en temel etkendir.
+  - Dolayısıyla nesne rolleri, birlikteliği daha yüksek nesneler üretmeye yardımcı olabilir.
+
+* Nesne Sınıflandırması
+  - Boundary : Sistemin aktörleriyle olan iletişimi yöneten nesnelerdir. İnterface nesneleri de denir.
+               Pencereler yada düğmeler gibi UI/GUI bileşenleri, socket bağlantısı yapan nesneler, web
+               servisler bu tip nesnelerdir.
+  - Control : İş süreçlerini yöneten ve ilgili kuralları bilen nesnelerdir. Service nesneleri olarak bilinirler.           
+  - Entity : İş alanı (business domain) nesneleridir. İş ile ilgili bilgiyi bilen ve en temel davranışlarını
+             modelleyen nesnelerdir.
+

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSqbSNQxhVo0QH6eqtxUFllBtrMDGVSb8+Hn3RvDZr771JD9HFVX5gtaxQrBU1ODs4YDJGEagKR7Uogs6rPv3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\DesignPatterns\\SOLID Prensipleri\\5-DIP\\Uygulama\\Uygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

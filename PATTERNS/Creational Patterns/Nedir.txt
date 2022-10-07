@@ -1,0 +1,18 @@
+Creational Patterns
+---------------------
+* Nesne merkezli programlamada en temel ve yaygın iş nesne oluşturmaktır.
+* Creational pattern'lar nesnelerin oluşturulması ile ilgilidir.
+* Nesne oluşturmayı soyutlar ve kodların etrafa dağılmasını önler.
+* En basit ve anlaşılır kalıplardır.
+* İlk akla gelen ve ihtiyacı hissedilen kalıptır.
+* Çoğu zaman nesneyi oluşturmak, o nesneyi kullanmaktan daha zordur. 
+  Çünkü nesnenin sağladığı basit ve anlaşılır bir arayüzün arkasındaki
+  mekanizmayı kurmak zordur.
+* Nesne oluşturma problemleri;
+  - Nesnenin nerede oluşturulacağı,
+  - Nesnenin nasıl oluşturulacağı (nesne durumu ve diğer nesnelerle ilişkileri)
+* Nesnelerin oluşturulmas kodun diğer kısımlarında soyutlanmalıdır. Nesneler
+  sadece ve sadece belirli yerlerde oluşturulmalı, bunun dışında new kullanımı
+  engellenmelidir.
+* Nesneler, sadece onların durumlarını ve diğer nesneler ile ilişkilerini çok
+  iyi bilenler tarafında oluşturulmalıdır.

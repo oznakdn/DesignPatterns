@@ -1,0 +1,3 @@
+Prototype Pattern
+-------------------
+* Bir örnek nesneden kopyalama ile yeni nesneler türetmek için kullanılır.

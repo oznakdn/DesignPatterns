@@ -1,0 +1,19 @@
+OCP (Open-Closed Principle - Açık kapalı Prensibi)
+----------------------------
+* Yazılım yapıları genişletilmeye açık ama değişime kapalı olmalıdır.
+* Yazılım sistemlerine yapılacak değişiklikler, var olan yapıların
+  değiştirilmesiyle değil, genişletilmesiyle yerine getirilmelidir.
+* Yazılım yapıları değişime kapalı olmalıdır, değiştirilmemelidir.
+* Yeni ihtiyaçlar var olan yazılım yapılarının genişletilmesiyle karşılanmalıdır.
+* Kaynak kodu seviyesinde değişiklik yapılmamalıdır.
+* Kaçınılmaz bağımlılıkların olabildiğince soyutlamalar üzerinde yapılması gerekir.
+* OCP nin amacı tekrar kullanılabilirliği ve bakımlanabilirliği arttırmaktır.
+* OCP'nin rahat uygulanabilmesi için kaçınılması gerekenler;
+  - Düşük birliktelikli yapılar,
+  - İç yapılara bağımlılık,
+  - Somut tiplere bağımlılık,
+  - Global değişkenler,
+* Bu durumda sistemin ve parçalarının ne yönde evrileceğini ve zamanla nelerin
+  değişebileceğini öngörmek çok değerlidir.
+* Bu da herşeyden önce iyi bir ürün bilgisi, piyasa ve kullanıcı eğilimleri ve
+  davranışlarını gibi etmenlere bağlıdır.

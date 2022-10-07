@@ -1,0 +1,19 @@
+SRP (Single Responsibility Principle - Tek Sorumluluk Prensibi)
+---------------------------------------------------------------
+* Bir sınıfın değişmesi için birden fazla sebep asla olmamalıdır.
+* Bir sınıf öyle odaklı olmalıdır ki değişmesi için birden fazla sebep olmamalı.
+* Bir sınıf sadece ve sadece bir şeyi soyutlamalı ve sadece ona odaklanmalı,
+  onunla ilgili veriye sahip olmalı ve sorumlulukları yerine getirmeli.
+* Aslen, Separation of Concerns prensibinin bir uygulamasıdır. 
+* Uygulanma şekli;
+  - Paket (package, name space) = Birlikte release edilen yapılar
+						          aynı pakette olmalıdır.
+  - Sınıf (class) = Sınıf, sadece bir şeyi soyutlamalı, sadece o şeyle
+                   ilgili veri ve davranışa sahip olmalıdır.
+  - Metot (method) = Sınıfın soyutladığı şeyle ilgili, tekrar kullanılabilecek
+                     bölünemez tek bir iş yapmalıdır.
+  - Blok (block) = Metot seviyesine çıkamamış dolayısıyla da tekrar
+                   kullanımı söz konusu olmayan ama ya hep ya hiç şeklinde
+                   çalışan bir cümle olmalıdır.
+  - Cümle (statement) = Bir metodun yada bloğun parçası olarak, tek bir işin
+                        tek bir adımını rahat ve anlaşılır bir şekilde yerine getirmelidir.

@@ -1,0 +1,12 @@
+ISP (Interface Segregation Principle - Arayüzleri Ayırma Prensibi)
+---------------------------------------------------------------
+* İstemciler kullanmadıkları arayüzlere bağımlı olmaya zorlanmamalıdır.
+* Şişman ya da kirli arayüzlerden kurtulmak, daha ince, odağı yüksek
+  arayüzlere sahip olmak gerektiğini ifade eder.
+* Bir arayüzün farklı istemcilere hizmet vermen metotlardan oluşan hizmet
+  grupları varsa, bu arayüz istemcilere özel ince arayüzlere bölünmelidir.
+* ISP karşıtı durumlar;
+  - Farklı istemcilerin aynı arayüz üzerindeki farklı metotları çağırması,
+  - Arayüzün al tipi olan sınıfların bazı metotlara gerçekleştirme vermekte
+    zorlanması yada o metotların ilgili sınıfta hiç kullanılmıyor olması.
+    

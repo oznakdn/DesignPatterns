@@ -1,0 +1,3 @@
+Factory Method Pattern
+-----------------------
+* Nesne oluşturmayı soyutlamak için kullanılır.

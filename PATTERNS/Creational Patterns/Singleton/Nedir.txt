@@ -1,0 +1,3 @@
+Singleton Pattern
+------------------
+* Bir sınıftan sadece tek bir nesne oluşturmak için kullanılır.

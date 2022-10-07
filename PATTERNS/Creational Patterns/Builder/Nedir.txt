@@ -1,0 +1,3 @@
+Builder Pattern
+----------------
+* Karmaşık nesne oluşturma sürecini kurgulamak için kullanılır.

@@ -1,0 +1,7 @@
+LSP (Liskov Substitution Principle)
+-------------------------------------
+* Taban sınıflarda işaretçi ya da referans kullanan fonksiyonlar,
+  türetilen sınıfların nesnelerinide bilmeden kullanılabilmelidirler.
+* Miras (inheritence) aslen bir genelleştirme-özelleştirme ilişkisidir.
+  Üstte daha genel altta daha özel tipler bulunmalıdır. Hiyerarşi tersine
+  çevrilmemeli ve şaşırtmamalıdır.

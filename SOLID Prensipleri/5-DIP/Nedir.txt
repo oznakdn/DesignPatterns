@@ -1,0 +1,17 @@
+DIP (Dependency Inversion Principle - Bağımlılığın Ters Çevrilmesi Prensibi)
+----------------------------------------------------------------------------
+* Yüksek seviyeli modüller aşağı seviyeli modüllere bağımlı olmamalıdır.
+* İkisi de soyutlamalara bağımlı olmalıdır. Soyutlamalar detaylara bağımlı
+  olmamalı, detaylar soyutlamalara bağımlı olmalıdır.
+* Yüksek seviyeli modül/iş ile kastedilen, uygulamayı oluşturan temel
+  soyutlamalardır. Süreçler ve onları yöneten yapılar (metodlar) bu 
+  türdendir.
+* Alt seviyeli modül/iş ile kastedilen ise detaylardır. Atmomik iş yapan
+  işçi metotlar ve sınıfları bju türdendir.
+* Çözüm;
+ - Somut yapılar arasındaki bağımlılıkların tamamen soyut bağımlılıklara
+   dönüşecek şekilde tersine çevrilmelidir,
+ - Bu amaçla her somut yapının soyut bir üst tipi oluşturulmalı ve yukarı
+   seviyeli iş yapan yapıların bağımlılıkları soyut tiplere çevrilmelidir,
+ - Bu şekilde üst seviyeli soyut yapılar ile onların detayları arasına
+   soyutlama tabakası konarak, değişimin yayılması önlenmelidir.
