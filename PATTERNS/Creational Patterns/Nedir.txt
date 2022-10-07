@@ -16,3 +16,11 @@ Creational Patterns
   engellenmelidir.
 * Nesneler, sadece onların durumlarını ve diğer nesneler ile ilişkilerini çok
   iyi bilenler tarafında oluşturulmalıdır.
+
+* Nesnelerin nerede oluşturulacağını belirleyen kalıplar
+ 1) Factory Method
+ 2) Asbstract Factory
+
+* Nesnelerin nasıl oluşturulacağını belirleyen kalıplar
+1) Builder
+2) Prototype
