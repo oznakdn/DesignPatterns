@@ -1,3 +1,13 @@
 Singleton Pattern
 ------------------
 * Bir sınıftan sadece tek bir nesne oluşturmak için kullanılır.
+* Amaç: Bir sınıfın sadece bir tane nesnesi olduğundan emin ol ve
+  ona global bir erişim noktası sağla.
+* Bir sınıftan bir tane nesne olmasından kasıt, herkesin istediği
+  zaman bu sıfının bir nesnesini oluşturmaya çalışmaması, oluşturamaması,
+  var olan tek nesneyi kullanmasıdır.
+* Örneğin karmaşık bir sisteme erişimi kontrol eden sınıfın sadece bir tane
+  nesnesinin olması istenir.
+* Singleton sınıf oluşturmanın iki yolu;
+  1) Nesne oluşturmayı kontrol ederek,
+  2) Enumeration kullanarak

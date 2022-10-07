@@ -1,0 +1,124 @@
+﻿using doubleCheckLockingSingleton;
+
+
+
+Client client = new Client();
+
+for (var i = 0; i < 100; i++)
+{
+    Thread thread = new Thread(client.Run);
+    thread.Start();
+}
+
+public class Client
+{
+    public void Run()
+    {
+        DoubleCheckLockingSingleton dcls = DoubleCheckLockingSingleton.Instance;
+        dcls.GetName();
+    }
+}
+
+
+/* Result:
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+DoubleCheckLockingSingleton 1
+*/

@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\bin\Debug\net6.0\doubleCheckLockingSingleton.exe
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\bin\Debug\net6.0\doubleCheckLockingSingleton.deps.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\bin\Debug\net6.0\doubleCheckLockingSingleton.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\bin\Debug\net6.0\doubleCheckLockingSingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\bin\Debug\net6.0\doubleCheckLockingSingleton.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\doubleCheckLockingSingleton.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\doubleCheckLockingSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\doubleCheckLockingSingleton.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\doubleCheckLockingSingleton.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\doubleCheckLockingSingleton.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\doubleCheckLockingSingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\refint\doubleCheckLockingSingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\doubleCheckLockingSingleton.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\doubleCheckLockingSingleton.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\doubleCheckLockingSingleton\obj\Debug\net6.0\ref\doubleCheckLockingSingleton.dll

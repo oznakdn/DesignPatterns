@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\bin\Debug\net6.0\threadedLazySingleton.exe
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\bin\Debug\net6.0\threadedLazySingleton.deps.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\bin\Debug\net6.0\threadedLazySingleton.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\bin\Debug\net6.0\threadedLazySingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\bin\Debug\net6.0\threadedLazySingleton.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\threadedLazySingleton.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\threadedLazySingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\threadedLazySingleton.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\threadedLazySingleton.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\threadedLazySingleton.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\threadedLazySingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\refint\threadedLazySingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\threadedLazySingleton.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\threadedLazySingleton.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\threadedLazySingleton\obj\Debug\net6.0\ref\threadedLazySingleton.dll
