@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\bin\Debug\net6.0\enumerationSingleton.exe
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\bin\Debug\net6.0\enumerationSingleton.deps.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\bin\Debug\net6.0\enumerationSingleton.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\bin\Debug\net6.0\enumerationSingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\bin\Debug\net6.0\enumerationSingleton.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\enumerationSingleton.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\enumerationSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\enumerationSingleton.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\enumerationSingleton.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\enumerationSingleton.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\enumerationSingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\refint\enumerationSingleton.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\enumerationSingleton.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\enumerationSingleton.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Singleton\enumerationSingleton\obj\Debug\net6.0\ref\enumerationSingleton.dll
