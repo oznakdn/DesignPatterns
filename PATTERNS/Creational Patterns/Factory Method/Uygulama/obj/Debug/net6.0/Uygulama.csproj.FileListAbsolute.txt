@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\bin\Debug\net6.0\Uygulama.exe
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\bin\Debug\net6.0\Uygulama.deps.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\bin\Debug\net6.0\Uygulama.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\bin\Debug\net6.0\Uygulama.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\bin\Debug\net6.0\Uygulama.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\Uygulama.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\Uygulama.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\Uygulama.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\Uygulama.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\refint\Uygulama.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\Uygulama.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\Uygulama.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\Uygulama\obj\Debug\net6.0\ref\Uygulama.dll

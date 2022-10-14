@@ -1,3 +1,16 @@
 Factory Method Pattern
 -----------------------
 * Nesne oluşturmayı soyutlamak için kullanılır.
+* Bir nesne oluşturmak için bir arayüz tanımlanır, fakat hangi
+  sınıfın nesnesinin oluşturulacağına alt sınıflar karar verir.
+* Bir sınıfın nesne oluşturmasını alt sınıflarına ötelenmesine
+  izin verir.
+* Nesnelerin nerede oluşturulacağı sorununu çözer.
+* Nesnelerin oluşturulmasını soyutlar ve bu işi istemci
+  kodlarından çıkarıp "üretici" yada "factory" metotlara
+  havale eder.
+* Factory method, nesnelerin oluşturulmasından sorumlu bir
+  metotdur ve bir arayüzde tanımlanır ve alt sınıflarda
+  gerçekleştirilir. Her alt sınıf ise bir başka nesneyi
+  oluşturur.
+

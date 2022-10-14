@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\bin\Debug\net6.0\WithStaticMethods.exe
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\bin\Debug\net6.0\WithStaticMethods.deps.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\bin\Debug\net6.0\WithStaticMethods.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\bin\Debug\net6.0\WithStaticMethods.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\bin\Debug\net6.0\WithStaticMethods.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\WithStaticMethods.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\WithStaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\WithStaticMethods.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\WithStaticMethods.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\WithStaticMethods.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\WithStaticMethods.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\refint\WithStaticMethods.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\WithStaticMethods.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\WithStaticMethods.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Factory Method\WithStaticMethods\obj\Debug\net6.0\ref\WithStaticMethods.dll
