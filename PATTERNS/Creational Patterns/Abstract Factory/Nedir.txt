@@ -1,3 +1,10 @@
 Abstract Factory Pattern
 -------------------------
 * Nesne ailesi oluşturmayı soyutlamak için kullanılır.
+* Birbirleriyle ilgili ya da bağımlı nesne ailelerini, nesnelerin somut
+  sınıflarını belirtmeden oluşturmak için arayüz sağlamak.
+* Tek nesne yerine, nesne ailesi oluşturmak üzere kullanılan bir kalıptır.
+* Abstract Factory bir sınıf, Abstract Method ise bir metotdur.
+* Abstract Factory birden fazla nesne, Abstract Method ise bir nesne
+  üretilmesini soyutlar.
+* Bu amaçla Abstract Factory birden fazla Factory Method'a sahiptir.

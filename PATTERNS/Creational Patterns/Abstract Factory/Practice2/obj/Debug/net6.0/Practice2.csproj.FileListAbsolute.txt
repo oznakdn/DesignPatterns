@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\bin\Debug\net6.0\Practice2.exe
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\bin\Debug\net6.0\Practice2.deps.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\bin\Debug\net6.0\Practice2.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\bin\Debug\net6.0\Practice2.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\bin\Debug\net6.0\Practice2.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\Practice2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\Practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\Practice2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\Practice2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\Practice2.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\refint\Practice2.dll
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\Practice2.pdb
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\Practice2.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\DesignPatterns\PATTERNS\Creational Patterns\Abstract Factory\Practice2\obj\Debug\net6.0\ref\Practice2.dll
