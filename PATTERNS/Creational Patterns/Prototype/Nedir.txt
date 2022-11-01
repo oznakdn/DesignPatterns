@@ -1,3 +1,11 @@
 Prototype Pattern
 -------------------
 * Bir örnek nesneden kopyalama ile yeni nesneler türetmek için kullanılır.
+* Uygulamalarda sıklıkla iş alanı (business domain) sınıflarından nesne oluşturulmaktadır.
+  Bu nesneler zaman zaman yüksek karmaşıklıkta olurlar. Bu durumda fazla sayıda nesne 
+  değişkeni ve aralarında ilişkiler söz konusudur.
+* Bazen bir sınıftan oluşturulan nesnelerin, az sayıdaki bir kaç durumdan birine sahip
+  olması istenir.
+* Bu türden karmaşık nesneleri sıfırdan oluşturmak yerine, hali hazırda elde var olan
+  nesnelerden kopyalayarak (clone) elde etmek yoluna gidilebilir.
+* Durumu koplanarak çoğaltılan nesne prototip yada örnek nesnedir.
