@@ -1,3 +1,7 @@
 Builder Pattern
 ----------------
 * Karmaşık nesne oluşturma sürecini kurgulamak için kullanılır.
+* Sıklıkla nesneler ve oluşturulmaları da karmaşıktır.
+* Bu türden nesneleri oluşturmak için gerekli olan süreç Builder
+  kalıbı olarak modellenebilir.
+
